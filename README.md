@@ -1,5 +1,4 @@
 # Lidar-Data-Segmentation-and-Manipulation
-
 ## Table of Contents
 - [Overview](#overview)
 - [Scope](#scope)

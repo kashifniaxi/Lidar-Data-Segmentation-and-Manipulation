@@ -64,6 +64,7 @@ Provides interactive 3D rendering for data inspection and analysis.
 ### Noise Reduction
 Implements filtering techniques such as statistical outlier removal and voxel grid filtering.
 
+
 ### Clustering & Segmentation
 Detects and groups objects using algorithms like DBSCAN and RANSAC.
 
